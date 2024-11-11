@@ -7,8 +7,11 @@ print(s3)
 #method 2
 s1=input("Enter the first string: ")
 s2=input("Enter the second string: ")
+
 #find common??
 compare=list(set(s1)&set(s2))
+
+#for loop
 for i in compare:
     print(i)
     i.append
