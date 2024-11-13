@@ -4,7 +4,8 @@ s2="cdefg"
 s3=(s1[0],s1[1])+(s2[2],s2[3],s2[4])
 print(s3)
 
-#method 2
+#method2
+#input statements 
 s1=input("Enter the first string: ")
 s2=input("Enter the second string: ")
 
